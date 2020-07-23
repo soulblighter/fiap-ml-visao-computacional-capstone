@@ -1,8 +1,11 @@
-![](https://img.shields.io/github/repo-size/michelpf/fiap-ml-visao-computacional-capstone)
-![](https://img.shields.io/github/issues/michelpf/fiap-ml-visao-computacional-capstone)
-![](https://img.shields.io/github/stars/michelpf/fiap-ml-visao-computacional-capstone)
-![](https://img.shields.io/github/watchers/michelpf/fiap-ml-visao-computacional-capstone)
-![](https://img.shields.io/github/last-commit/michelpf/fiap-ml-visao-computacional-capstone)
+![](https://img.shields.io/github/repo-size/soulblighter/fiap-ml-visao-computacional-capstone)
+![](https://img.shields.io/github/issues/soulblighter/fiap-ml-visao-computacional-capstone)
+![](https://img.shields.io/github/stars/soulblighter/fiap-ml-visao-computacional-capstone)
+![](https://img.shields.io/github/watchers/soulblighter/fiap-ml-visao-computacional-capstone)
+![](https://img.shields.io/github/last-commit/soulblighter/fiap-ml-visao-computacional-capstone)
+
+
+Solução em: [```projeto/object-people-audit.ipynb```](https://github.com/soulblighter/fiap-ml-visao-computacional-capstone/blob/master/projeto/object-people-audit.ipynb)
 
 
 # MBA FIAP Inteligência Artificial & Machine Learning
